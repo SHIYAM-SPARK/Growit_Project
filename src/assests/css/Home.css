@@ -1,0 +1,10 @@
+.cards:hover{
+    text-decoration: none;
+    transform: scale(1.2);
+}
+.card{
+    text-decoration: none;
+}
+.card-content:hover{
+    transform: scale(1.1);
+}

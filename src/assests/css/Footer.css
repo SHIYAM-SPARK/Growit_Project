@@ -1,0 +1,41 @@
+.footer-container {
+    background-color: #d7dcc1;
+    color: #090202;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 150px;
+    margin-left: 5rem;
+  }
+  
+  .contact-section,
+  .social-section {
+    text-align: left;
+  }
+  
+  .contact-section p,
+  .social-section p {
+    margin: 5px 0;
+  }
+  
+  .social-section a {
+    color: #0a4c12;
+    margin-right: 10px;
+    transition: color 0.3s ease;
+  }
+  
+  .social-section a:hover {
+    color: #0914e2;
+  }
+  
+  .contact-section svg,
+  .social-section svg {
+    margin-right: 10px;
+  }
+  .offers p{
+    margin: 5px 0;
+  }
+  .copyright-section
+  {
+    padding-top: 30px;
+  }
