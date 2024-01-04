@@ -1,9 +1,8 @@
 import React, { useState } from 'react';
 import '../assests/css/Contact.css';
-import Navbar from './Navbar';
 import Footer from './Footer';
 import { Link} from 'react-router-dom';
-import { FaHome, FaInfoCircle, FaEnvelope, FaUser } from 'react-icons/fa';
+import { FaHome, FaInfoCircle, FaUser } from 'react-icons/fa';
 
 const Contact = () => {
   const [formData, setFormData] = useState({

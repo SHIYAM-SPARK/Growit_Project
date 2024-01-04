@@ -1,8 +1,6 @@
 import React, { useState } from 'react';
 import '../assests/css/Login.css';
 import { Link,useNavigate } from 'react-router-dom';
-import SignUp from './SignUp';
-import Navbar from './Navbar';
 import { FaHome, FaInfoCircle, FaEnvelope, FaUser } from 'react-icons/fa';
 
 const Login = () => {
