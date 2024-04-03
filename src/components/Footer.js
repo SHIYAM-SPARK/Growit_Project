@@ -28,11 +28,6 @@ export default function Footer() {
           <FontAwesomeIcon icon={faInstagram} size="2x" />
         </a>
       </div>
-      {/* <div className="copyright-section">
-        <h2>
-          &copy; {new Date().getFullYear()} Growit!. All rights reserved.
-        </h2>
-      </div> */}
     </footer>
   );
 }
